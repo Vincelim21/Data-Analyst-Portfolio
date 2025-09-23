@@ -1,4 +1,3 @@
-# Data-Analyst-Portfolio
 # 📊 Dashboard Portfolio  
 
 This repository showcases my work in **Excel** and **Power BI**, focusing on data visualization and reporting.  
