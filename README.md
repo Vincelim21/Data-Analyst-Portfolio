@@ -7,12 +7,12 @@ This repository showcases my journey in learning visual dashboards. Here are my 
 - Power BI  
 
 ## 📂 Finished Projects  
-- [Coffee Sales Dashboard(Excel)](./project-coffee-sales/Coffee_Orders_Data_Analysis.xlsx) – Interactive dashboard to visualize monthly sales performance, sales by country, top customers
-- [Supermarket Sales Dashboard(Excel)](./project-supermarket-sales/Supermarket_sales-data-analysis.xlsx) – Interactive dashboard for revenue and product performance.
-- [Job Profession Data Dashboard(Power Bi)](./project-job-profession-data/Job-Profession_Data_Analysis.pbix) – Interactive dashboard to visualize job profession satisfaction based on survey from people from various profession in data. 
+- [Coffee Sales Dashboard (Excel)](./project-coffee-sales/Coffee_Orders_Data_Analysis.xlsx) – Interactive dashboard analyzing monthly sales performance, sales by country, and top customers.
+- [Supermarket Sales Dashboard (Excel)](./project-supermarket-sales/Supermarket_sales-data-analysis.xlsx) – Interactive dashboard showcasing revenue trends and product performance. 
+- [Job Profession Data Dashboard (Power Bi)](./project-job-profession-data/Job-Profession_Data_Analysis.pbix) – Interactive dashboard visualizing job satisfaction across various professions based on survey data.  
 
 ## 🛠️ In Progress / Upcoming  
-- **Covid19 Trend Analysis Dashboard** – Trends and data from Covid19. 
+- **Covid19 Trend Analysis Dashboard** – Dashboard exploring trends and insights from COVID-19 data.  
 
 ## 📬 Contact  
 - **LinkedIn:** [www.linkedin.com/in/vvlim]  
